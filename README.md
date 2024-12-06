@@ -15,7 +15,7 @@
 **📫 Connect with Me**
   - Email: casey.michael1231@gmail.com
   - Location: Dundalk, Co. Louth
-  - Find Me Elsewhere: [LinkedIn](https://www.linkedin.com/feed/)
+  - Find Me Elsewhere: [LinkedIn](www.linkedin.com/in/michael-casey-429992329)
 
 **🍹 Fun Fact**
   - As I am a bartender, I thought its only right to make my own cocktail, I used the tried and tested Godfather as my inspiration.
