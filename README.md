@@ -1,26 +1,9 @@
-**👋 Welcome to Michael Casey's GitHub!**
+# 💫 About Me:
+**👋 Welcome to Michael Casey's GitHub!**<br><br>**🚀 About Me**<br>  - Hello! I'm Michael Casey, a college student in TUD Grangegorman. I am currently enrolled in Computer Science - Infrastructure ( TU857/2 ).<br>    I have always enjoyed computers but it wasnt until TY in school I realised I enjoyed coding, because of this I went on to pick CompSci as<br>    one of my options. I then recieved CompSci student of the year in 6th year.<br>  - I enjoy playstation, music especially hip-hop, hiking, cycling, camping and technologies both old and new.<br>  - I am passionate about tech, coding and overall creativeness<br>  - I'd love to specialise in networking, programming, and hardware as I love applying creative tech to real-world issues<br><br>**🛠️ Key Skills**<br>  - Hardware: ST Nucleo L031K6<br>  - Languages: Python, C<br><br>**📫 Connect with Me**<br>  - Email: casey.michael1231@gmail.com<br>  - Location: Dundalk, Co. Louth<br>  - Find Me Elsewhere: [LinkedIn](www.linkedin.com/in/michael-casey-429992329)<br><br>**🍹 Fun Fact**<br>  - As I am a bartender, I thought its only right to make my own cocktail, I used the tried and tested Godfather as my inspiration.<br>    I took the Godfather and added honey, muddled oranges, and whip shaked to add plenty of dilution, I called it the Silician Breeze.<br>    <br>  <br>**🏆 LET'S BUILD TOGETHER!**<br>  - Reach out if you’re up for a collaboration on exciting tech challenges or creative projects!
 
-**🚀 About Me**
-  - Hello! I'm Michael Casey, a college student in TUD Grangegorman. I am currently enrolled in Computer Science - Infrastructure ( TU857/2 ).
-    I have always enjoyed computers but it wasnt until TY in school I realised I enjoyed coding, because of this I went on to pick CompSci as
-    one of my options. I then recieved CompSci student of the year in 6th year.
-  - I enjoy playstation, music especially hip-hop, hiking, cycling, camping and technologies both old and new.
-  - I am passionate about tech, coding and overall creativeness
-  - I'd love to specialise in networking, programming, and hardware as I love applying creative tech to real-world issues
 
-**🛠️ Key Skills**
-  - Hardware: ST Nucleo L031K6
-  - Languages: Python, C
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 
-**📫 Connect with Me**
-  - Email: casey.michael1231@gmail.com
-  - Location: Dundalk, Co. Louth
-  - Find Me Elsewhere: [LinkedIn](www.linkedin.com/in/michael-casey-429992329)
-
-**🍹 Fun Fact**
-  - As I am a bartender, I thought its only right to make my own cocktail, I used the tried and tested Godfather as my inspiration.
-    I took the Godfather and added honey, muddled oranges, and whip shaked to add plenty of dilution, I called it the Silician Breeze.
-    
-  
-**🏆 LET'S BUILD TOGETHER!**
-  - Reach out if you’re up for a collaboration on exciting tech challenges or creative projects!
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
